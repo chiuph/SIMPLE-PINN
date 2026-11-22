@@ -22,7 +22,7 @@ Typical install time should be under 30min for all the above packages.
 
 Expected time required for training in the provided scripts on a workstation with Intel Xeon W-2275 CPU and Nvidia Gefore RTX 3090 GPU is tabulated as follows:
 | Problem | Time |
-|-----:|-----------|
+|---:|---|
 | 01. Lid-Driven Cavity | 450s|
 | 02. Wavy Channel |  200s|
 | 03. NACA0012_airfoil | 400s|
