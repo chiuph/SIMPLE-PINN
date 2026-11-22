@@ -30,6 +30,14 @@ Expected time required for training in the provided scripts on a workstation wit
 | 05. Flow past cylinder | 7000s|
 | 06. Rayleigh-Taylor instability | 6400s|
 
+# Coypright
+
+This tool is developed in Computational Sustainability (CoS) Division, Institute of High Performance Computing (IHPC), A*STAR.
+
+The copyright holder for this project is Computational Sustainability (CoS) Division, Institute of High Performance Computing (IHPC), A*STAR.
+
+All rights reserved.
+
 # Citation
 
 Chang Wei, Yuchen Fan, Chin Chun Ooi, Jian Cheng Wong, Heyang Wang, Pao-Hsiung Chiu, _"Bridging Computational Fluid Dynamics Algorithm and Physics-Informed Learning: SIMPLE-PINN for Incompressible Navier-Stokes Equations"_. [https://arxiv.org/abs/2312.03243](https://arxiv.org/abs/2603.24013)
