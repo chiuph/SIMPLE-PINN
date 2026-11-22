@@ -21,14 +21,14 @@ You can download this repo and run the demo tasks on your computing machine.
 Typical install time should be under 30min for all the above packages.
 
 Expected time required for training in the provided scripts on a workstation with Intel Xeon W-2275 CPU and Nvidia Gefore RTX 3090 GPU is tabulated as follows:
-|  Problem | Time |
+| Problem | Time |
 |-----:|-----------|
 | 01. Lid-Driven Cavity | 450s|
 | 02. Wavy Channel |  200s|
-| 03. NACA0012_airfoil| 400s |
-| 04. Flow past three squares | 340s  |
-| 05. Flow past cylinder| 7000s |
-| 06. Rayleigh-Taylor instability | 6400s |
+| 03. NACA0012_airfoil | 400s|
+| 04. Flow past three squares | 340s|
+| 05. Flow past cylinder | 7000s|
+| 06. Rayleigh-Taylor instability | 6400s|
 
 # Citation
 
