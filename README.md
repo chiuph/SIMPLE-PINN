@@ -30,13 +30,6 @@ Expected time required for training in the provided scripts on a workstation wit
 | 05. Flow past cylinder | 7000s|
 | 06. Rayleigh-Taylor instability | 6400s|
 
-# Coypright
-
-This tool is developed in Computational Sustainability (CoS) Division, Institute of High Performance Computing (IHPC), A*STAR.
-
-The copyright holder for this project is Computational Sustainability (CoS) Division, Institute of High Performance Computing (IHPC), A*STAR.
-
-All rights reserved.
 
 # Citation
 
